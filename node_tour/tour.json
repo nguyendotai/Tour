@@ -1,0 +1,241 @@
+[
+    {
+        "_id": {
+            "$oid": "65123abcd45678ef90123450"
+        },
+        "title": "Tour TP.HCM | Hà Nội | Hạ Long | Ninh Bình | Tam Chúc | Sapa | Fansipan",
+        "price": 10000000,
+        "description": "Tour du lịch khám phá Việt Nam với hành trình từ TP.HCM đến Hà Nội, Hạ Long, Ninh Bình, Tam Chúc, Sapa và Fansipan. Trải nghiệm vẻ đẹp thiên nhiên hùng vĩ, di sản văn hóa đặc sắc, vịnh Hạ Long kỳ quan thế giới, chùa Tam Chúc linh thiêng, núi rừng Sapa thơ mộng và chinh phục đỉnh Fansipan – nóc nhà Đông Dương. Một hành trình tuyệt vời kết hợp giữa khám phá, nghỉ dưỡng và văn hóa.",
+        "category": {
+            "$oid": "67d9290426012d0082dc3e80"
+        },
+        "isHot": true,
+        "isSale": false,
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "TP.HCM - HÀ NỘI - KHÁM PHÁ VỊNH HẠ LONG ( • Ăn trưa • Ăn tối )",
+                "details": {
+                    "steps": [
+                        {
+                            "time": "05:00",
+                            "activity": "Đón khách tại ga đi trong nước sân bay Quốc tế Tân Sơn Nhất, làm thủ tục bay đi Hà Nội."
+                        },
+                        {
+                            "time": "09:10",
+                            "activity": "Xe và HDV địa phương đón đoàn, sắp xếp hành lý, khởi hành đi Hạ Long."
+                        },
+                        {
+                            "time": "12:30",
+                            "activity": "Đoàn ăn trưa tại nhà hàng."
+                        },
+                        {
+                            "time": "Chiều",
+                            "activity": "Tham quan Động Thiên Cung và Hàng Đầu Gỗ."
+                        },
+                        {
+                            "time": "17:30",
+                            "activity": "Về khách sạn nhận phòng, nghỉ ngơi."
+                        },
+                        {
+                            "time": "Tối",
+                            "activity": "Ăn tối tại nhà hàng, dạo biển Bãi Cháy, tham quan chợ đêm Hạ Long."
+                        }
+                    ]
+                },
+                "images": [
+                    "day1_hcm_fansipan.png"
+                ]
+            },
+            {
+                "day": 2,
+                "title": "HẠ LONG - NINH BÌNH - TRÀNG AN - HANG MÚA ( • Ăn sáng • Ăn trưa • Ăn tối )",
+                "details": {
+                    "steps": [
+                        {
+                            "time": "Sáng",
+                            "activity": "Quý khách dùng điểm tâm tại nhà hàng. Tự do khám phá Thành phố biển Hạ Long hoặc tắm biển Bãi Cháy."
+                        },
+                        {
+                            "time": "09:00",
+                            "activity": "Quý khách trả phòng khách sạn. Xe đón quý khách di chuyển về Ninh Bình theo Quốc Lộ 10. Trên đường đi, quý khách sẽ được cảm nhận cảnh quan làng quê đặc trưng của Đồng Bằng Bắc Bộ."
+                        },
+                        {
+                            "time": "Trưa",
+                            "activity": "Đến Ninh Bình, quý khách tới nhà hàng dùng cơm trưa. Sau đó nhận phòng khách sạn và nghỉ ngơi."
+                        },
+                        {
+                            "time": "Chiều",
+                            "activity": "Xe và hướng dẫn viên đưa đoàn tham quan Quần thể danh thắng Tràng An, di sản thế giới UNESCO. Quý khách lên thuyền xuôi dòng Sào Khê, tham quan Hang Sáng, Hang Tối, Hang Nấu Rượu."
+                        },
+                        {
+                            "time": "Chiều (tuỳ chọn)",
+                            "activity": "Nếu còn thời gian, quý khách có thể tham quan Hang Múa (tự túc vé). Chinh phục núi Hang Múa với 500 bậc đá, chiêm ngưỡng toàn cảnh Tam Cốc từ trên cao."
+                        },
+                        {
+                            "time": "Tối",
+                            "activity": "Quý khách dùng bữa tối với đặc sản dê núi Ninh Bình. Sau đó tự do tham quan phố đêm Ninh Bình."
+                        }
+                    ]
+                },
+                "images": [
+                    "day2_hcm_fansipan.png"
+                ]
+            },
+            {
+                "day": 3,
+                "title": "HẠ LONG - HÀ NAM - TAM CHÚC - HÀ NỘI ( • Ăn sáng • Ăn trưa • Ăn tối )",
+                "details": {
+                    "steps": [
+                        {
+                            "time": "Sáng",
+                            "activity": "Quý khách dùng bữa tại nhà hàng, sau đó làm thủ tục trả phòng khách sạn."
+                        },
+                        {
+                            "time": "08:30",
+                            "activity": "Đoàn khởi hành qua Hà Nam tham quan quần thể danh thắng Tam Chúc."
+                        },
+                        {
+                            "time": "08:45",
+                            "activity": "Thuyền VIP di trên lòng hồ vào quần thể tự do thăm quan Tam Chúc - một trong những hồ nước tự nhiên rộng nhất Việt Nam, có dãy núi đá vôi bao quanh."
+                        },
+                        {
+                            "time": "12:00",
+                            "activity": "Đoàn dùng bữa trưa tại nhà hàng. Nghỉ ngơi tại nhà hàng."
+                        },
+                        {
+                            "time": "Chiều",
+                            "activity": "Tiếp tục hành trình di chuyển về Hà Nội. Đến Hà Nội, đoàn tham quan Quảng trường Ba Đình, Chùa Trấn Quốc, Hồ Hoàn Kiếm."
+                        },
+                        {
+                            "time": "Tối",
+                            "activity": "Quý khách dùng bữa tối tại nhà hàng. Tự do tham quan phố cổ Hà Nội, dạo Hồ Gươm, mua sắm tại chợ đêm Hà Nội. Nghỉ đêm tại khách sạn ở Hà Nội."
+                        }
+                    ]
+                },
+                "images": [
+                    "day3_hcm_fansipan.png"
+                ]
+            }
+        ],
+        "image_cover": "main_hcm_fansipan.jpg",
+        "locations": [
+            {
+                "$oid": "65123abcd45678ef90123456"
+            },
+            {
+                "$oid": "65123abcd45678ef90123457"
+            }
+        ],
+        "createdAt": "2025-03-17T00:00:00Z",
+        "updatedAt": "2025-03-17T00:00:00Z"
+    },
+    {
+        "_id": {
+            "$oid": "65123abcd45678ef90123467"
+        },
+        "title": "Tour Nhật Bản 5 Ngày 4 Đêm: Yamanashi | Hakone | Tokyo | Narita",
+        "price": 28000000,
+        "description": "Tour du lịch Nhật Bản 5 ngày 4 đêm với hành trình khám phá các địa danh nổi tiếng như Yamanashi, Hakone, Tokyo, Narita. Trải nghiệm thiên nhiên hùng vĩ, văn hóa truyền thống và ẩm thực đặc sắc của xứ sở hoa anh đào.",
+        "category": {
+            "$oid": "67d9297f2d873b1363226486"
+        },
+        "isHot": true,
+        "isSale": false,
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "TP HCM - NARITA - HÀNH TRÌNH DU LỊCH NHẬT BẢN 5 NGÀY 4 ĐÊM",
+                "details": {
+                    "steps": [
+                        {
+                            "time": "21:30",
+                            "activity": "Hướng dẫn viên đón quý khách tại sân bay Tân Sơn Nhất, làm thủ tục lên chuyến bay VJ930 đi Nhật Bản."
+                        },
+                        {
+                            "time": "Nghỉ đêm",
+                            "activity": "Đoàn nghỉ đêm trên máy bay."
+                        }
+                    ]
+                },
+                "images": [
+                    "day1_tp_hcm_narita.png"
+                ]
+            },
+            {
+                "day": 2,
+                "title": "YAMANASHI - FUJI ( • Ăn sáng • Ăn trưa • Ăn tối )",
+                "details": {
+                    "steps": [
+                        {
+                            "time": "07:45",
+                            "activity": "Đoàn làm thủ tục nhập cảnh tại sân bay Narita, sau đó khởi hành đến Yamanashi - vùng đất yên bình dưới chân núi Phú Sĩ."
+                        },
+                        {
+                            "time": "Sáng",
+                            "activity": "Du thuyền hồ Kawaguchi - một trong năm hồ lớn tuyệt đẹp quanh núi Phú Sĩ."
+                        },
+                        {
+                            "time": "Trưa",
+                            "activity": "Dùng cơm trưa tại nhà hàng địa phương."
+                        },
+                        {
+                            "time": "Chiều",
+                            "activity": "Tham quan Núi Phú Sĩ, làng cổ Oshino Hakkai, trải nghiệm tắm Onsen thư giãn theo phong cách Nhật Bản."
+                        },
+                        {
+                            "time": "Tối",
+                            "activity": "Ăn tối tại khách sạn và nghỉ đêm ở Yamanashi."
+                        }
+                    ]
+                },
+                "images": [
+                    "day2_yamanashi_fuji.png"
+                ]
+            },
+            {
+                "day": 3,
+                "title": "YAMANASHI - HAKONE - TOKYO ( • Ăn sáng • Ăn trưa • Ăn tối )",
+                "details": {
+                    "steps": [
+                        {
+                            "time": "Sáng",
+                            "activity": "Dùng điểm tâm sáng tại khách sạn, sau đó di chuyển đến Hakone tham quan."
+                        },
+                        {
+                            "time": "Sáng",
+                            "activity": "Chùa Chureito - địa điểm ngắm núi Phú Sĩ nổi tiếng với cảnh quan tuyệt đẹp."
+                        },
+                        {
+                            "time": "Trưa",
+                            "activity": "Dùng cơm trưa tại nhà hàng."
+                        },
+                        {
+                            "time": "Chiều",
+                            "activity": "Di chuyển về Tokyo, tham quan Tháp Tokyo Skytree và khám phá phố mua sắm sầm uất."
+                        },
+                        {
+                            "time": "Tối",
+                            "activity": "Ăn tối tại nhà hàng, nhận phòng khách sạn và nghỉ đêm tại Tokyo."
+                        }
+                    ]
+                },
+                "images": [
+                    "day3_hakone_tokyo.png"
+                ]
+            }
+        ],
+        "image_cover": "main_tour_japan.jpg",
+        "locations": [
+            {
+                "$oid": "65123abcd45678ef90123468"
+            },
+            {
+                "$oid": "65123abcd45678ef90123469"
+            }
+        ],
+        "createdAt": "2025-03-17T00:00:00Z",
+        "updatedAt": "2025-03-17T00:00:00Z"
+    }
+    
+]
